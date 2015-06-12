@@ -1,0 +1,15 @@
+{
+  "name": "streamy-bacon",
+  "version": "0.0.1",
+  "description": "a streaming service",
+  "dependencies": {
+    "connect-mysql": "^2.1.1",
+    "cookie-parser": "^1.3.4",
+    "express": "^4.10.2",
+    "express-session": "^1.10.3",
+    "jade": "^1.9.2",
+    "mysql": "^2.5.5",
+    "redis": "^0.12.1",
+    "socket.io": "^1.3.5"
+  }
+}
